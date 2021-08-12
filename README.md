@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaiahSavage
-- 👀 I’m interested in Discord Bots
-- 🌱 I’m currently learning Java, JavaScript, Node.js, and MongoDB
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java and C++
 - 📫 Reach out to me here on github!
 
 <!---
