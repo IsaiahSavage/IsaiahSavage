@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsaiahSavage
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Back End Development
 - 🌱 I’m currently learning Java and C++
 - 📫 Reach out to me here on github!
 
