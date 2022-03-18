@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaiahSavage
-- 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning Java and C++
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Web Dev and C++
 - 📫 Reach out to me here on github!
 
 <!---
