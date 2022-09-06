@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsaiahSavage
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Development and Solutions Architecture
 - 🌱 I’m currently learning Web Dev and Computer Architectures
 - 📫 Reach out to me here on github!
 
