@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaiahSavage
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Dev and C++
+- 🌱 I’m currently learning Web Dev and Computer Architectures
 - 📫 Reach out to me here on github!
 
 <!---
