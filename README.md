@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaiahSavage
 - 👀 I’m interested in Full Stack Development and Data Science
-- 🌱 I’m currently learning .Net Maui and React Native
+- 🌱 I’m currently learning .NET Maui and React Native
 - 📫 Reach out to me here on GitHub or [LinkedIn](https://www.linkedin.com/in/isaiahsavage/)!
 
 <!---
